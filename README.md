@@ -5,11 +5,13 @@ Lista com links para Libraries e Plugins. Desenvolvimento Web
 
 PHP
 =============
-PHP.JS <br>
-http://phpjs.org/functions/
+
 
 JavaScript
 =============
+
+PHP.JS <br>
+http://phpjs.org/functions/
 
 jQuery <br>
 http://jquery.com/
