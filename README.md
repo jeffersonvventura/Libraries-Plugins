@@ -6,6 +6,8 @@ Lista com links para Libraries e Plugins. Desenvolvimento Web
 PHP
 =============
 
+Kint <br>
+http://raveren.github.io/kint/
 
 JavaScript
 =============
