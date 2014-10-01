@@ -60,6 +60,74 @@ http://qunitjs.com/
 jQuery EasyUI <br>
 http://www.jeasyui.com/
 
+jQuery Form <br>
+http://malsup.com/jquery/form/
+
+jqGrid <br>
+http://www.trirand.com/blog/
+
+jQuery BlockUI <br>
+http://malsup.com/jquery/block/
+
+jQuery File Download <br>
+http://jqueryfiledownload.apphb.com/
+
+jQuery Spin <br>
+http://ksylvest.github.io/jquery-spin/
+
+jQuery Terminal <br>
+https://github.com/jcubic/jquery.terminal
+
+ExtJS <br>
+http://dev.sencha.com/ext/5.0.1/examples/index.html
+
+Autonumeric <br>
+http://www.decorplanit.com/plugin/
+
+jStorage <br>
+http://www.jstorage.info/
+
+Piecon <br>
+https://github.com/lipka/piecon
+
+Kendo UI <br>
+http://www.telerik.com/kendo-ui
+
+Wijmo UI <br>
+http://wijmo.com/
+
+Numeral JS <br>
+http://numeraljs.com/
+
+Handsontable <br>
+http://handsontable.com/
+
+Momment JS <br>
+http://momentjs.com/
+
+String JS <br>
+http://stringjs.com/
+
+Mousetrap <br>
+http://craig.is/killing/mice
+
+Angular JS <br>
+https://angularjs.org/
+
+Notify JS <br>
+https://github.com/alexgibson/notify.js
+
+Countdown <br>
+https://github.com/gumroad/countdown.js
+
+Intro JS <br>
+https://github.com/usablica/intro.js
+
+jQuery QRCode <br>
+http://larsjung.de/jquery-qrcode/
+
+
+
 CSS
 ======
 Bootstrap <br>
