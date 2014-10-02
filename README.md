@@ -126,7 +126,8 @@ https://github.com/usablica/intro.js
 jQuery QRCode <br>
 http://larsjung.de/jquery-qrcode/
 
-
+Ember.js <br>
+http://emberjs.com/
 
 CSS
 ======
